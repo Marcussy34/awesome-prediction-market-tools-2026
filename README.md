@@ -23,9 +23,9 @@ per venue. Where an upstream venue does not support something, the API reports
 that rather than faking parity. Surfaces span REST, WebSocket, TypeScript and Python SDKs, an MCP
 server for agents, and SQL, alongside accumulating cross-venue history and trader intelligence.
 
-Alongside the API, Predictefy runs a cross-venue terminal at predictefy.com covering 11
-platforms, Binance and OKX among them. Matched markets sit side by side, order books and price
-gaps share one view, positions track across venues, and trades are placed in the app.
+Alongside the API, Predictefy runs a cross-venue terminal at predictefy.com. Matched markets sit
+side by side, order books and price gaps share one view, positions track across venues, and
+trades are placed in the app.
 
 [Docs](https://docs.predictefy.com/?utm_source=predictefy) &middot; [Pricing](https://predictefy.com/en/pricing?utm_source=predictefy) &middot; [Blog](https://blog.predictefy.com/?utm_source=predictefy)
 
@@ -91,7 +91,7 @@ gaps share one view, positions track across venues, and trades are placed in the
 - [Kairos](https://kairos.trade/?utm_source=predictefy) - Cross-venue trading terminal and unified REST and WebSocket API merging Kalshi, Polymarket, and Predict.fun order books with NBBO smart routing.
 - [Matchr](https://matchr.xyz?utm_source=predictefy) - Cross-venue aggregator searching markets across Polymarket and Kalshi to route trades to the best available prices and automated yield strategies.
 - [OkayBet](https://www.okaybet.app/?utm_source=predictefy) - Prediction market aggregation layer supporting cross-platform parlay betting, automated trading agents, and market discovery.
-- [Predictefy](https://predictefy.com/en/markets?utm_source=predictefy) - Aggregates markets, prices, order books, and trades from 17 venues into one interface, with cross-venue market matching and compare views.
+- [Predictefy](https://predictefy.com/en/markets?utm_source=predictefy) - Aggregates markets, prices, order books, and trades across venues into one interface, with cross-venue market matching and compare views.
 - [trade.fun](https://trade.fun/?utm_source=predictefy) - Multi-asset trading interface combining Polymarket prediction contracts, Solana spot tokens, and leveraged perpetuals with MEV protection.
 - [TradeFox](https://thetradefox.com?utm_source=predictefy) - Prediction market aggregator offering self-custodial order execution, cross-platform liquidity routing, and portfolio management tools.
 - [Verso](https://www.verso.trading/?utm_source=predictefy) - Trading terminal providing real-time data, analytics, and news intelligence for Polymarket and Kalshi in a multi-window desktop interface.
