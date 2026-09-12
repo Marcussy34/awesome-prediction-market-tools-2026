@@ -85,7 +85,6 @@ predictefy.com.
 - [Predictefy](https://predictefy.com/en/markets?utm_source=predictefy) - Aggregates markets, prices, order books, and trades from nine venues into one interface, with cross-venue market matching and compare views.
 - [trade.fun](https://trade.fun/?utm_source=predictefy) - Multi-asset trading interface combining Polymarket prediction contracts, Solana spot tokens, and leveraged perpetuals with MEV protection.
 - [TradeFox](https://thetradefox.com?utm_source=predictefy) - Prediction market aggregator offering self-custodial order execution, cross-platform liquidity routing, and portfolio management tools.
-- [Verso](https://www.verso.trading/?utm_source=predictefy) - Trading terminal providing real-time data, analytics, and news intelligence for Polymarket and Kalshi in a multi-window desktop interface.
 
 ## Alerts
 
@@ -97,7 +96,6 @@ predictefy.com.
 - [PolyCopy](https://polycopy.app?utm_source=predictefy) - Telegram bot tracking Polymarket trader wallets, open positions, and historical performance metrics without requiring private key or wallet connections.
 - [PolyIntel](https://t.me/PolyIntel_bot?utm_source=predictefy) - Telegram bot monitoring Polymarket order flow every 10 minutes to detect whale transactions, suspicious trades, and probability shifts.
 - [PolySpy](https://t.me/PolySpy_bot?utm_source=predictefy) - Telegram bot delivering instant notifications for newly created Polymarket contracts with granular filtering by topic, category, and custom tag exclusions.
-- [Polytrackerbot](https://x.com/polytrackerbot?utm_source=predictefy) - Social bot tracking high-conviction Polymarket buy-side positions and top-performing wallets while filtering out sports markets.
 - [Stand](https://www.stand.trade/?utm_source=predictefy) - Wallet monitoring and copy trading tool providing real-time alerts when top Polymarket traders execute high-conviction positions.
 - [YN Signals](https://t.me/YNSignals?utm_source=predictefy) - Telegram channel streaming continuous alerts for new market listings, odds anomalies, whale transactions, and active wallet movements across Polymarket, Kalshi, and Limitless.
 
@@ -112,8 +110,7 @@ predictefy.com.
 - [MentionMetrix](https://www.mentionmetrix.com/?utm_source=predictefy) - Keyword analytics service providing historical mention frequencies, speech excerpts, and trend charts for Kalshi and Polymarket contracts.
 - [MobyScreener](https://www.mobyscreener.com/predictions-feed?utm_source=predictefy) - Live transaction feed streaming real-time buy and sell orders from top-performing Polymarket traders.
 - [Parsec](https://parsec.fi/polymarket?utm_source=predictefy) - Financial data terminal offering real-time charting, order flow visualization, and volume metrics for Polymarket contracts.
-- [pm.wiki](https://pm.wiki/?utm_source=predictefy) - Community directory and comparison resource indexing hundreds of prediction market exchanges, data tools, and ecosystem projects.
-- [Polyguana](https://polyguana.com/?utm_source=predictefy) - Independent analytics portal providing Polymarket trader profit rankings, contract volume statistics, and historical performance tracking.
+- [PM Wisdom](https://pmwisdom.com/?utm_source=predictefy) - Community directory and comparison resource indexing hundreds of prediction market exchanges, data tools, and ecosystem projects.
 - [PolyInsider](https://polyinsider.io?utm_source=predictefy) - Real-time dashboard flagging first-time Polymarket wallets placing bets of at least 5,000 dollars, paired with whale trader rankings.
 - [Polymarket Analytics](https://polymarketanalytics.com/?utm_source=predictefy) - Web dashboard tracking Polymarket trader leaderboards, open positions, market activity, and aggregate trade volume.
 - [Polymarket Elon Tracker](https://t.me/polymarketbetbot?utm_source=predictefy) - Telegram bot tracking Elon Musk tweet frequencies, live orderbook depth, and outcome probabilities for tweet-count betting markets on Polymarket.
@@ -137,7 +134,7 @@ predictefy.com.
 ## APIs
 
 - [Adanos Market Sentiment API](https://api.adanos.org/docs/?utm_source=predictefy) - REST API delivering Polymarket sentiment metrics for stocks and ETFs, including buzz scores, directional trend signals, and comparative endpoints for trading tools.
-- [Adjacent News](https://adj.news/?utm_source=predictefy) - News platform and developer API providing real-time breaking news feeds contextualized with live prediction market probability data.
+- [Adjacent](https://adjacent.markets/?utm_source=predictefy) - Prediction market indices plus a developer API, pairing real-time news feeds with live market probability data.
 - [ClickHouse](https://crypto.clickhouse.com/?utm_source=predictefy) - Open-source columnar OLAP database optimized for real-time analytical queries over high-volume market trades, order book snapshots, and on-chain event logs.
 - [Dome](https://domeapi.io?utm_source=predictefy) - Developer platform offering unified REST APIs and SDKs for querying real-time order books and historical trade data across multiple prediction markets.
 - [Marketlens](https://marketlens.trade/?utm_source=predictefy) - Quantitative research platform providing tick-level historical Polymarket order book and trade data through a Python SDK and backtesting REST API.
@@ -162,7 +159,6 @@ predictefy.com.
 - [fergmolina](https://dune.com/fergmolina/polymarket-markets-data?utm_source=predictefy) - Dune Analytics dashboard visualizing Polymarket on-chain transaction data, open event contracts, and active user metrics via Gamma API integration.
 - [KuCoinVentures](https://dune.com/kucoinventures/trading-bots-on-polymarket?utm_source=predictefy) - Dune Analytics dashboard tracking automated trading bot activity, transaction volume share, and address behavior across Polymarket order books.
 - [LayerHub](https://layerhub.xyz/protocols/polymarket?utm_source=predictefy) - On-chain analytics dashboard tracking Polymarket wallet interaction history, volume distributions, user retention metrics, and individual trader performance.
-- [Metaforecast](https://metaforecast.org?utm_source=predictefy) - Search engine aggregating probabilistic forecasts and market odds from Polymarket, Metaculus, Manifold, Good Judgment Open, and PredictIt.
 - [Pizzint Watch](https://www.pizzint.watch/?utm_source=predictefy) - Dashboard correlating late-night pizza shop foot traffic near the Pentagon with Polymarket geopolitical contract pricing for OSINT signals.
 - [Token Terminal](https://tokenterminal.com?utm_source=predictefy) - Financial analytics platform standardizing on-chain metrics, protocol revenue, active users, and fee data for blockchains and decentralized applications.
 - [Zapper](https://zapper.xyz/apps/polymarket?utm_source=predictefy) - Web3 portfolio dashboard featuring integrated Polymarket position tracking, multi-chain balance monitoring, and on-chain transaction history across EVM networks.
@@ -170,7 +166,7 @@ predictefy.com.
 ## Data
 
 - [alexmccullough](https://dune.com/alexmccullough/how-accurate-is-polymarket?utm_source=predictefy#a-few-things-immediately-stand-out) - Dune Analytics dashboard analyzing Polymarket historical contract calibration, outcome distributions, probability biases, and accuracy across price buckets.
-- [Artemis](https://app.artemisanalytics.com/sectors?tab=prediction_markets&utm_source=predictefy) - Market data platform tracking real-time trading volume, open interest, daily active users, and transaction flows across Polymarket and Kalshi.
+- [Artemis](https://www.artemis.ai/sectors?tab=prediction_markets&utm_source=predictefy) - Market data platform tracking real-time trading volume, open interest, daily active users, and transaction flows across Polymarket and Kalshi.
 - [Blockworks](https://blockworks.com/analytics/polymarket?utm_source=predictefy) - Research analytics suite tracking Polymarket on-chain activity, daily volume breakdowns, liquidity distribution, and active wallet segments.
 - [filarm](https://dune.com/filarm/polymarket-activity?utm_source=predictefy) - Dune Analytics dashboard tracking Polymarket daily active traders, cumulative volume trends, token liquidity, and monthly user growth metrics.
 - [Goldsky](https://goldsky.com/?utm_source=predictefy) - Data indexing infrastructure providing real-time subgraphs, custom data pipelines, and webhook streaming for Polymarket on-chain events.
@@ -238,7 +234,7 @@ predictefy.com.
 
 - [AIXBET](https://www.aixbet.ai/?utm_source=predictefy) - Autonomous betting protocol that executes trades on Polymarket and similar markets around the clock, using AI models and smart money signals.
 - [Based](https://app.based.one/predict?utm_source=predictefy) - Unified Hyperliquid trading platform that folds Polymarket prediction markets into the same account as perpetuals, spot crypto, and on-chain stock trading.
-- [Berry](https://berryinvesting.com/?utm_source=predictefy) - Mobile investing app offering US stocks, ETFs, and Polymarket-powered prediction markets in one account, with no bank account required to start.
+- [Berry](https://berry.app/?utm_source=predictefy) - Mobile investing app offering US stocks, ETFs, and Polymarket-powered prediction markets in one account, with no bank account required to start.
 - [Converge](https://converge.market?utm_source=predictefy) - Trading terminal aggregating Polymarket, Kalshi, and Limitless into one custody-free, chain-agnostic interface with cross-venue arbitrage detection and no added fees.
 - [Datalayer](https://datalayer.xyz/?utm_source=predictefy) - AI trading companion spanning meme coins, perpetuals, yield farming, and prediction markets across Hyperliquid, Polymarket, Solana, BSC, and Base.
 - [Fireplace](https://fireplace.gg/?utm_source=predictefy) - Social news feed app built on Polymarket, letting friends scroll headlines, place bets on breaking news markets, and compete on leaderboards.
@@ -267,5 +263,4 @@ predictefy.com.
 - [PolyHedg](https://polyhedg.com/?utm_source=predictefy) - Platform that converts corporate event risk into a fixed, budgetable cost using automated hedging strategies built on Polymarket markets.
 - [Polyteller](https://polyteller.com/?utm_source=predictefy) - Free Chrome extension adding live market countdowns, trade notifications, a privacy mode, and safety checks for Polymarket traders.
 - [Prediction Index](https://predictionindex.xyz/?utm_source=predictefy) - Ranking dashboard and directory listing over 140 prediction market projects, filterable by chain, market type, and operating status.
-- [Prediction Markets Directory](https://frontseat.co/prediction-markets?utm_source=predictefy) - Open, searchable catalog listing nearly 100 prediction market platforms in a single reference page for quick comparison.
 - [UMA rocks](https://www.uma.rocks/?utm_source=predictefy) - Self-custodial platform automating UMA token delegation for oracle voting rewards tied to Polymarket dispute resolution.
