@@ -9,26 +9,16 @@ knowing, across Polymarket, Kalshi, Hyperliquid, Limitless, Myriad, and the venu
 
 ---
 
-⭐ **Featured: [Predictefy](https://predictefy.com/?utm_source=predictefy)** is unified
-prediction market intelligence and execution infrastructure: the API and SDK for all prediction
-market builders.
+⭐ **Featured: [Predictefy](https://predictefy.com/?utm_source=predictefy)**, the API and SDK
+for all prediction market builders.
 
-It pulls markets, prices, order books, and trades from 17 venues including Polymarket, Kalshi,
-Hyperliquid, Limitless, Opinion, Predict.fun, Myriad, SX Bet, Gemini, and Novig, normalizes them
-into a single schema, and matches equivalent markets across venues so price gaps and cross-venue
-positions line up against each other.
+Predictefy normalizes markets, prices, order books, and trades from 17 venues like Polymarket,
+Kalshi and Hyperliquid into one schema, matching equivalent markets across them to surface price
+gaps, history, and trader intelligence. Integrate once, then change the venue parameter to reach
+REST, WebSocket, TypeScript and Python SDKs, MCP, and SQL. A nine-venue terminal runs at
+predictefy.com.
 
-Builders integrate once and change the venue parameter, instead of rebuilding the integration
-per venue. Where an upstream venue does not support something, the API reports
-that rather than faking parity. Surfaces span REST, WebSocket, TypeScript and Python SDKs, an MCP
-server for agents, and SQL, alongside accumulating cross-venue history and trader intelligence.
-
-Alongside the API, Predictefy runs a cross-venue terminal at predictefy.com covering nine venues:
-Polymarket, Kalshi, Hyperliquid, Opinion, Predict.fun, Limitless, Myriad, Gemini, and Rain.
-Matched markets sit side by side, order books and price gaps share one view, positions track
-across venues, and trades are placed in the app.
-
-[Docs](https://docs.predictefy.com/?utm_source=predictefy) &middot; [Pricing](https://predictefy.com/en/pricing?utm_source=predictefy) &middot; [Blog](https://blog.predictefy.com/?utm_source=predictefy)
+👉 **Start building:** **[docs.predictefy.com](https://docs.predictefy.com/?utm_source=predictefy)**
 
 ---
 
