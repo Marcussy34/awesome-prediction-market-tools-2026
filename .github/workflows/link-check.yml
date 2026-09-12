@@ -1,0 +1,45 @@
+name: Link check
+
+on:
+  schedule:
+    # Weekly sweep, Mondays 06:00 UTC. Dead links are the main way a list like this rots.
+    - cron: '0 6 * * 1'
+  pull_request:
+    paths: ['README.md']
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  lychee:
+    name: lychee
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check links
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          # Accept 2xx and 3xx. Many listed sites rate-limit or block CI, so retry and
+          # tolerate the usual bot-blocking codes rather than failing the whole run.
+          args: >-
+            --no-progress
+            --max-retries 3
+            --retry-wait-time 5
+            --timeout 30
+            --accept 200,201,202,203,204,206,301,302,303,307,308,403,429,503
+            README.md
+          fail: false
+          output: lychee-report.md
+
+      # Only opens an issue on the scheduled run, so pull requests stay quiet.
+      - name: Open issue on broken links
+        if: github.event_name == 'schedule' && steps.lychee.outputs.exit_code != 0
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: Broken links found in README
+          content-filepath: lychee-report.md
+          labels: broken-link, maintenance

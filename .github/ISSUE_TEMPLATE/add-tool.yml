@@ -1,0 +1,81 @@
+name: Add a tool
+description: Suggest a prediction market tool for the list
+title: "Add: <tool name>"
+labels: ["new entry"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Tool name
+      placeholder: Predictefy
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      description: No referral or affiliate links.
+      placeholder: https://example.com
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - AI Agents
+        - Aggregators
+        - Alerts
+        - Analytics
+        - APIs
+        - Arbitrage
+        - Dashboards
+        - Data
+        - DeFi
+        - Education
+        - Extensions
+        - Funds
+        - Infrastructure
+        - News
+        - Official
+        - Other
+        - Parlays
+        - Portfolio Tracking
+        - Trading Bots
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: >-
+        One sentence, 12 to 28 words. Start with a capital, end with a period. Say what it
+        does and which venues it covers. No marketing language, no superlatives, no
+        unverifiable numbers.
+      placeholder: Telegram bot posting Polymarket whale trades above $10,000 with wallet history and direct trade links.
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: The link works and the project is live today.
+          required: true
+        - label: This is a tool built around prediction markets, not a venue itself.
+          required: true
+        - label: The URL contains no referral or affiliate parameters.
+          required: true
+        - label: I have read the contributing guide.
+          required: true
+
+  - type: checkboxes
+    id: affiliation
+    attributes:
+      label: Affiliation
+      options:
+        - label: I am the author of, or work on, this tool.
