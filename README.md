@@ -188,6 +188,7 @@ predictefy.com.
 - [PolymarketGuide](https://polymarketguide.gitbook.io/?utm_source=predictefy) - Independent knowledge base explaining how Polymarket resolves markets, with precedent examples and case studies for traders and oracle participants.
 - [PolyNoob](https://polynoob.com/?utm_source=predictefy) - Beginner-focused encyclopedia and guide covering Polymarket trading strategies, trader insights, and other educational material for new users.
 - [The Oracle by Polymarket](https://news.polymarket.com/?utm_source=predictefy) - Newsletter and podcast produced by Polymarket, covering news, market commentary, and analysis tied to live prediction market activity.
+- [Hyperliquid Academy](https://hyperliquidacademy.com/compare/hyperliquid-vs-polymarket/) - Independent comparison of Polymarket and Hyperliquid HIP-4 outcome markets on settlement, fees and access, dated and sourced.
 
 ## Extensions
 
