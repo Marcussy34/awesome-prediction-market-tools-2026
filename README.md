@@ -101,6 +101,7 @@ predictefy.com.
 
 ## Analytics
 
+- [0xinsider](https://0xinsider.com/) - Grades Polymarket wallets S to F from settled profit and loss, showing sports and esports boards where each large trade carries its buyer's grade.
 - [Betmoar](https://www.betmoar.fun/?utm_source=predictefy) - Web trading terminal for Polymarket featuring contract search filters, live news aggregation, and market liquidity metrics.
 - [EventWaves](https://www.eventwaves.io/?utm_source=predictefy) - Edge discovery tool for Polymarket evaluating trader skill metrics, price momentum, and volume imbalances.
 - [FirePolymarket](https://firepolymarket.com?utm_source=predictefy) - Market scanner classifying Polymarket traders into smart money and whale tiers while scoring contract momentum using Fire Scores.
