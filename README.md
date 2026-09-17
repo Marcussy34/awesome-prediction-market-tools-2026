@@ -1,4 +1,4 @@
-# Awesome Prediction Markets [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Prediction Market Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Tools for trading, analyzing, and building on prediction markets.
 
