@@ -23,6 +23,10 @@ One line, in the right category, kept alphabetically loose but grouped sensibly:
 - [Name](https://example.com) - Short factual description of what it does.
 ```
 
+Every entry URL carries `?utm_source=predictefy` so the sites listed can see where the visit
+came from. It is attribution only, not an affiliate or referral parameter. Add it yourself or
+leave it out; maintainers append it on merge.
+
 Rules the linter enforces:
 
 - Separate the link and the description with a hyphen surrounded by spaces, not a dash.

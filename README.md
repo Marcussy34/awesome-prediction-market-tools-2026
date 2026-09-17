@@ -46,7 +46,7 @@ predictefy.com.
 
 ## AI Agents
 
-- [0xinsider MCP](https://0xinsider.com/mcp) - Hosted server exposing 33 read-only tools for Polymarket trader grades, large trades, sports boards, and settled outcomes.
+- [0xinsider MCP](https://0xinsider.com/mcp?utm_source=predictefy) - Hosted server for Pro subscribers exposing read-only tools for Polymarket trader grades, large trades, sports boards, and settled outcomes.
 - [Aeon](https://github.com/aaronjmars/aeon?utm_source=predictefy) - Autonomous agent framework running on GitHub Actions that monitors Polymarket and Kalshi for probability shifts and arbitrage under the MIT license.
 - [Alphascope](https://www.alphascope.app/?utm_source=predictefy) - Market intelligence platform for prediction markets, tracking probability shifts and delivering real-time trading signals.
 - [Bankr](https://bankr.bot/?utm_source=predictefy) - Crypto trading agent and wallet integration for X, supporting Polymarket prediction trading and private terminal interactions.
@@ -102,7 +102,7 @@ predictefy.com.
 
 ## Analytics
 
-- [0xinsider](https://0xinsider.com/) - Grades Polymarket wallets S to F from settled profit and loss, showing sports and esports boards where each large trade carries its buyer's grade.
+- [0xinsider](https://0xinsider.com/?utm_source=predictefy) - Grades Polymarket wallets S to F from settled profit and loss, showing sports and esports boards where each large trade carries its buyer's grade.
 - [Betmoar](https://www.betmoar.fun/?utm_source=predictefy) - Web trading terminal for Polymarket featuring contract search filters, live news aggregation, and market liquidity metrics.
 - [EventWaves](https://www.eventwaves.io/?utm_source=predictefy) - Edge discovery tool for Polymarket evaluating trader skill metrics, price momentum, and volume imbalances.
 - [FirePolymarket](https://firepolymarket.com?utm_source=predictefy) - Market scanner classifying Polymarket traders into smart money and whale tiers while scoring contract momentum using Fire Scores.
