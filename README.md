@@ -111,6 +111,7 @@ predictefy.com.
 - [Mention Markets](https://mentionmarkets.com/?utm_source=predictefy) - Transcript search engine indexing political speeches, corporate earnings calls, and Federal Reserve statements for word-count betting contracts.
 - [MentionMetrix](https://www.mentionmetrix.com/?utm_source=predictefy) - Keyword analytics service providing historical mention frequencies, speech excerpts, and trend charts for Kalshi and Polymarket contracts.
 - [MobyScreener](https://www.mobyscreener.com/predictions-feed?utm_source=predictefy) - Live transaction feed streaming real-time buy and sell orders from top-performing Polymarket traders.
+- [OVERROUND](https://www.overround.pro/?utm_source=predictefy) - Grades Polymarket wallets on the prices they paid rather than profit, and publishes a graded ledger of every alert sent, losses included.
 - [Parsec](https://parsec.fi/polymarket?utm_source=predictefy) - Financial data terminal offering real-time charting, order flow visualization, and volume metrics for Polymarket contracts.
 - [PM Wisdom](https://pmwisdom.com/?utm_source=predictefy) - Community directory and comparison resource indexing hundreds of prediction market exchanges, data tools, and ecosystem projects.
 - [PolyInsider](https://polyinsider.io?utm_source=predictefy) - Real-time dashboard flagging first-time Polymarket wallets placing bets of at least 5,000 dollars, paired with whale trader rankings.
