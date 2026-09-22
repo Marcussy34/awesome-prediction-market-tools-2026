@@ -9,8 +9,9 @@ knowing, across Polymarket, Kalshi, Hyperliquid, Limitless, Myriad, and the venu
 
 ---
 
-⭐ **Featured: [Predictefy](https://predictefy.com/?utm_source=predictefy)**, the API and SDK
-for all prediction market builders.
+⭐ **Featured: [Predictefy](https://predictefy.com/?utm_source=predictefy)**, the
+[prediction market API](https://predictefy.com/en/api?utm_source=predictefy) and SDK for all
+builders.
 
 Predictefy normalizes markets, prices, order books, and trades from 17 venues like Polymarket,
 Kalshi and Hyperliquid into one schema, matching equivalent markets across them to surface price
@@ -141,7 +142,6 @@ predictefy.com.
 - [Marketlens](https://marketlens.trade/?utm_source=predictefy) - Quantitative research platform providing tick-level historical Polymarket order book and trade data through a Python SDK and backtesting REST API.
 - [PMXT](https://github.com/qoery-com/pmxt?utm_source=predictefy) - Open-source unified API client for querying prediction market data and trading across multiple exchanges through a CCXT-inspired standardized interface.
 - [PolyRouter](https://polyrouter.io?utm_source=predictefy) - Unified API service delivering normalized market data from Kalshi, Polymarket, and Limitless through a single API key and standardized interface.
-- [Predictefy API](https://predictefy.com/en/api?utm_source=predictefy) - Prediction market API normalizing markets, prices, order books, and trades from 17 venues into one schema, with cross-venue matching and a single venue parameter.
 - [Predictefy SDK](https://www.npmjs.com/package/@predictefy/sdk?utm_source=predictefy) - Normalized REST, WebSocket, and SQL contract with TypeScript and Python SDKs, where reaching another venue means changing the venue parameter.
 - [pykalshi](https://github.com/ArshKA/kalshi-client?utm_source=predictefy) - Python client for Kalshi featuring WebSocket streaming, automatic retries, rate limiting, Pandas integration, Jupyter notebook rendering, and local order book management.
 
