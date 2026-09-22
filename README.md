@@ -239,7 +239,7 @@ predictefy.com.
 - [Converge](https://converge.market?utm_source=predictefy) - Trading terminal aggregating Polymarket, Kalshi, and Limitless into one custody-free, chain-agnostic interface with cross-venue arbitrage detection and no added fees.
 - [Datalayer](https://datalayer.xyz/?utm_source=predictefy) - AI trading companion spanning meme coins, perpetuals, yield farming, and prediction markets across Hyperliquid, Polymarket, Solana, BSC, and Base.
 - [Fireplace](https://fireplace.gg/?utm_source=predictefy) - Social news feed app built on Polymarket, letting friends scroll headlines, place bets on breaking news markets, and compete on leaderboards.
-- [Homerun](https://github.com/braedonsaunders/homerun) - Open-source Polymarket and Kalshi trading platform with Python strategies, backtesting, paper and live trading, copy trading, and a real-time dashboard.
+- [Homerun](https://github.com/braedonsaunders/homerun?utm_source=predictefy) - Open-source Polymarket and Kalshi trading platform with Python strategies, backtesting, paper and live trading, copy trading, and a real-time dashboard under the AGPL-3.0 license.
 - [okbet](https://tryokbet.com/?utm_source=predictefy) - Telegram terminal covering both Polymarket and Kalshi, letting groups of friends trade, place bets, and copy top performers from chat.
 - [PolyBot](https://polybot.trading/?utm_source=predictefy) - Self-custodial Telegram trading bot for Polymarket using Gnosis Safe wallets, with gas-sponsored transactions and paste-to-trade execution inside chat.
 - [Polyburg](https://polyburg.com/?utm_source=predictefy) - Intelligence terminal tracking Polymarket's most profitable wallets through automated monitoring, AI-generated insights, and instant Telegram alerts.
