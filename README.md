@@ -203,6 +203,7 @@ predictefy.com.
 - [Baozi.bet](https://baozi.bet?utm_source=predictefy) - Decentralized pari-mutuel prediction market protocol on Solana, offering boolean and multi-outcome race markets plus an open-source MCP server for AI agent integration.
 - [Compose](https://compose.build?utm_source=predictefy) - Orchestration framework connecting offchain and onchain systems, helping developers build hybrid onchain applications in TypeScript with automated workflow management.
 - [Dimes](https://dimes.fi?utm_source=predictefy) - Embedded credit infrastructure letting trading terminals, wallets, and apps offer leveraged prediction market exposure through a REST API, handling credit provisioning and hedging.
+- [Floatout](https://floatout.xyz?utm_source=predictefy) - No-code launcher for branded Hyperliquid trading sites that serve HIP-4 outcome markets and perps, earning builder-code fees on eligible trades.
 - [Kuest](https://kuest.com?utm_source=predictefy) - Open-source infrastructure protocol that lets developers launch and operate their own prediction market deployment on the Polygon network.
 - [OrderbookTrade](https://www.orderbook.trade?utm_source=predictefy) - CLOB-based matching engine and on-chain settlement infrastructure that lets operators launch a prediction market venue with one click.
 - [SEDA](https://docs.seda.xyz/?utm_source=predictefy) - Oracle infrastructure bringing Polymarket market data onchain, letting developers build composable DeFi primitives such as perpetuals, lending, and arbitrage tools across chains.
