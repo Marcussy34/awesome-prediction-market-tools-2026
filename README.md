@@ -106,6 +106,7 @@ predictefy.com.
 - [EventWaves](https://www.eventwaves.io/?utm_source=predictefy) - Edge discovery tool for Polymarket evaluating trader skill metrics, price momentum, and volume imbalances.
 - [FirePolymarket](https://firepolymarket.com?utm_source=predictefy) - Market scanner classifying Polymarket traders into smart money and whale tiers while scoring contract momentum using Fire Scores.
 - [Hashdive](https://www.hashdive.com/?utm_source=predictefy) - Cross-platform dashboard providing trader rankings and contract analytics across Polymarket and Kalshi using proprietary Smart Scores.
+- [Kresmion](https://kresmion.com/odds) - Web platform and REST API showing Polymarket and Kalshi odds with calibration and cross-venue divergence, alongside SEC filings, macro and on-chain data, with cited sources.
 - [Markium](https://markiumpro.com/?utm_source=predictefy) - Multi-market aggregator delivering cross-venue trader leaderboards, wallet analytics, and watchlist alerts for Polymarket and peer exchanges.
 - [Mention Markets](https://mentionmarkets.com/?utm_source=predictefy) - Transcript search engine indexing political speeches, corporate earnings calls, and Federal Reserve statements for word-count betting contracts.
 - [MentionMetrix](https://www.mentionmetrix.com/?utm_source=predictefy) - Keyword analytics service providing historical mention frequencies, speech excerpts, and trend charts for Kalshi and Polymarket contracts.
