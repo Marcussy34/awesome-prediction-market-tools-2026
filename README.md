@@ -239,7 +239,6 @@ predictefy.com.
 - [Based](https://app.based.one/predict?utm_source=predictefy) - Unified Hyperliquid trading platform that folds Polymarket prediction markets into the same account as perpetuals, spot crypto, and on-chain stock trading.
 - [Berry](https://berry.app/?utm_source=predictefy) - Mobile investing app offering US stocks, ETFs, and Polymarket-powered prediction markets in one account, with no bank account required to start.
 - [Converge](https://converge.market?utm_source=predictefy) - Trading terminal aggregating Polymarket, Kalshi, and Limitless into one custody-free, chain-agnostic interface with cross-venue arbitrage detection and no added fees.
-- [Datalayer](https://datalayer.xyz/?utm_source=predictefy) - AI trading companion spanning meme coins, perpetuals, yield farming, and prediction markets across Hyperliquid, Polymarket, Solana, BSC, and Base.
 - [Fireplace](https://fireplace.gg/?utm_source=predictefy) - Social news feed app built on Polymarket, letting friends scroll headlines, place bets on breaking news markets, and compete on leaderboards.
 - [Homerun](https://github.com/braedonsaunders/homerun?utm_source=predictefy) - Open-source Polymarket and Kalshi trading platform with Python strategies, backtesting, paper and live trading, copy trading, and a real-time dashboard under the AGPL-3.0 license.
 - [okbet](https://tryokbet.com/?utm_source=predictefy) - Telegram terminal covering both Polymarket and Kalshi, letting groups of friends trade, place bets, and copy top performers from chat.
