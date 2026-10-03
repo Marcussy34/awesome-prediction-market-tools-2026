@@ -121,6 +121,7 @@ predictefy.com.
 - [PolyScope](https://discord.com/invite/polyscope?utm_source=predictefy) - Discord monitoring bot delivering real-time alerts for trending Polymarket contracts, odds shifts, and top trader activity.
 - [Polysights](https://app.polysights.xyz/?utm_source=predictefy) - Market analytics dashboard combining custom Polymarket metrics, automated news summaries, and price change alerts.
 - [PolyTrack](https://polytrack.cash/?utm_source=predictefy) - Surveillance service monitoring Polymarket for newly funded whale wallets, abnormal trade sizes, and suspicious activity severity scores.
+- [PolyTracer](https://polytracer.app/?utm_source=predictefy) - Replays Polymarket wallets fill by fill from raw Polygon chain data to recompute win rate, ROI and P&L, with leaderboards and category breakdowns.
 - [PolyVision](https://polyvisionx.com?utm_source=predictefy) - Wallet analyzer calculating copy-trading ratings, Sharpe ratios, and drawdown risks, delivered via Telegram bot, REST API, and MCP server.
 - [PolyWallet](https://polywallet.info/?utm_source=predictefy) - Watchlist monitoring tool supporting tracking of up to twenty Polymarket addresses with Telegram alerts and profit leaderboards.
 - [PredictFolio](https://predictfolio.com?utm_source=predictefy) - Portfolio tracker for Polymarket enabling users to monitor historical profit and loss, win rates, and comparative trader performance.
