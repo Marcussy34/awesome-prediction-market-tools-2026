@@ -114,6 +114,7 @@ predictefy.com.
 - [OVERROUND](https://www.overround.pro/?utm_source=predictefy) - Skill leaderboard scoring Polymarket wallets on the prices they paid rather than profit, with subscriber alerts on position changes and a public ledger grading how they resolved.
 - [Parsec](https://parsec.fi/polymarket?utm_source=predictefy) - Financial data terminal offering real-time charting, order flow visualization, and volume metrics for Polymarket contracts.
 - [PM Wisdom](https://pmwisdom.com/?utm_source=predictefy) - Community directory and comparison resource indexing hundreds of prediction market exchanges, data tools, and ecosystem projects.
+- [PMWallets](https://pmwallets.com/) - Polymarket trader leaderboard computed from Polygon chain data, scoring linked wallets as one trader with win-rate confidence intervals, plus a paid WebSocket and webhook fill feed.
 - [PolyInsider](https://polyinsider.io?utm_source=predictefy) - Real-time dashboard flagging first-time Polymarket wallets placing bets of at least 5,000 dollars, paired with whale trader rankings.
 - [Polymarket Analytics](https://polymarketanalytics.com/?utm_source=predictefy) - Web dashboard tracking Polymarket trader leaderboards, open positions, market activity, and aggregate trade volume.
 - [Polymarket Elon Tracker](https://t.me/polymarketbetbot?utm_source=predictefy) - Telegram bot tracking Elon Musk tweet frequencies, live orderbook depth, and outcome probabilities for tweet-count betting markets on Polymarket.
