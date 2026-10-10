@@ -129,6 +129,7 @@ predictefy.com.
 - [Prediedge](https://prediedge.com?utm_source=predictefy) - Whale tracking platform detecting large orders, unusual wallet activity, and volume anomalies across Polymarket and Kalshi.
 - [PredScan](https://predscan.io?utm_source=predictefy) - Performance tracking service publishing daily updated Polymarket trader rankings, return on investment figures, and historical win rates.
 - [Pricediction](https://web3-pricediction.vercel.app/?utm_source=predictefy) - Research and execution toolkit providing automated market analysis and direct trade execution on Kalshi and Polymarket.
+- [sg.tips](https://sg.tips/?src=dir-gh-awesome-prediction-market-tools-2026) - Live feed of orders from Polymarket and Kalshi traders screened for profit on settled trades, with trader records and match probability charts for sports and esports.
 - [Synthesis](https://synthesis.trade/?utm_source=predictefy) - Multi-venue dashboard displaying live orderbooks, bid-ask depth, and cross-market price comparisons across Polymarket, Kalshi, and Limitless.
 - [Wethr](https://wethr.net/?utm_source=predictefy) - Meteorological data platform providing live forecast models and temperature tracking for weather markets on Polymarket and Kalshi.
 - [Wincy Polymarket Bot](https://t.me/wincy_polymarket_bot?utm_source=predictefy) - Telegram bot detailing the five largest position holders in any Polymarket contract, showing position sizes, directions, and wallet links.
