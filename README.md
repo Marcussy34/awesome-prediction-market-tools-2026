@@ -139,6 +139,7 @@ predictefy.com.
 - [Adjacent](https://adjacent.markets/?utm_source=predictefy) - Prediction market indices plus a developer API, pairing real-time news feeds with live market probability data.
 - [ClickHouse](https://crypto.clickhouse.com/?utm_source=predictefy) - Open-source columnar OLAP database optimized for real-time analytical queries over high-volume market trades, order book snapshots, and on-chain event logs.
 - [Dome](https://domeapi.io?utm_source=predictefy) - Developer platform offering unified REST APIs and SDKs for querying real-time order books and historical trade data across multiple prediction markets.
+- [Hydromancer](https://hydromancer.xyz/hip-4) - REST and WebSocket API for Hyperliquid HIP-4 outcome markets, covering market metadata, settled outcomes and live market events.
 - [Marketlens](https://marketlens.trade/?utm_source=predictefy) - Quantitative research platform providing tick-level historical Polymarket order book and trade data through a Python SDK and backtesting REST API.
 - [PMXT](https://github.com/qoery-com/pmxt?utm_source=predictefy) - Open-source unified API client for querying prediction market data and trading across multiple exchanges through a CCXT-inspired standardized interface.
 - [PolyRouter](https://polyrouter.io?utm_source=predictefy) - Unified API service delivering normalized market data from Kalshi, Polymarket, and Limitless through a single API key and standardized interface.
