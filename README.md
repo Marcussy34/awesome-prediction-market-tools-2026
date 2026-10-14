@@ -255,6 +255,7 @@ predictefy.com.
 - [Rainmaker](https://rainmaker.fun/?utm_source=predictefy) - AI agent terminal unifying arbitrage scanning, copy trading, and analytics across Polymarket and Kalshi, branded as the Cloud9 Agentic Terminal.
 - [Rocket](https://userocket.app/?utm_source=predictefy) - Prediction market aggregator that pulls odds and forecasts into one dashboard for cross-market analysis and comparison.
 - [Sharpe Terminal](https://beta.sharpeterminal.com/?utm_source=predictefy) - Trading terminal for prediction markets offering order management, market monitoring, and Polymarket social feeds with trader analytics, currently in public beta.
+- [Whalidate](https://whalidate.com/?utm_source=predictefy) - Copy-trading web app for Polymarket that scores wallets on settled trades and worst drawdown, then copies new trades that pass the user's rules, with free paper trading.
 
 ## Other
 
