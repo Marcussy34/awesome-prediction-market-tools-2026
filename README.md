@@ -174,6 +174,7 @@ predictefy.com.
 - [Goldsky](https://goldsky.com/?utm_source=predictefy) - Data indexing infrastructure providing real-time subgraphs, custom data pipelines, and webhook streaming for Polymarket on-chain events.
 - [Probalytics](https://probalytics.io?utm_source=predictefy) - Data infrastructure for Polymarket and Kalshi with REST APIs, ClickHouse SQL access, 1ms resolution order book updates, and Parquet S3 bulk exports.
 - [sealaunch](https://dune.com/sealaunch/polymarket-trending-topics?utm_source=predictefy) - Dune Analytics dashboard tracking trending Polymarket topics, 24-hour volume spikes, open interest, and probability shifts across breaking event contracts.
+- [TickFoundry](https://tickfoundry.com) - Historical Polymarket, Hyperliquid and Kalshi order books and trades at tick level, delivered as parquet or CSV per market per day with a REST API.
 - [TREMOR](https://github.com/sculptdotfun/tremor?utm_source=predictefy) - Data terminal for Polymarket and Kalshi offering SQL query analytics, sub-second latency, and market intelligence across active event contracts.
 
 ## DeFi
