@@ -232,6 +232,7 @@ predictefy.com.
 - [Polycool](https://polycool.live/?utm_source=predictefy) - Trader tracking platform flagging large trades from Polymarket's busiest half percent of wallets, delivered as Telegram alerts with copy trading options.
 - [Polylerts](https://t.me/Polylerts_bot?utm_source=predictefy) - Free Telegram bot tracking up to 15 Polymarket wallets at once, sending trade alerts and analytical reports to study top traders.
 - [PolyTracker](https://t.me/polytracker0_bot?utm_source=predictefy) - Telegram bot that watches chosen Polymarket wallets and sends notifications on new transactions with market details and direct links.
+- [TrueHold](https://www.truehold.xyz/track/polymarket?utm_source=predictefy) - Portfolio tracker that reads a Polymarket wallet by address, values open positions, counts resolved wins as realised P&L and adds them to the same total as the owner's other wallets and exchange accounts.
 
 ## Trading Bots
 
