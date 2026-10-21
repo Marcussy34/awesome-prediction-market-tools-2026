@@ -96,6 +96,7 @@ predictefy.com.
 - [PolyCopy](https://polycopy.app?utm_source=predictefy) - Telegram bot tracking Polymarket trader wallets, open positions, and historical performance metrics without requiring private key or wallet connections.
 - [PolyIntel](https://t.me/PolyIntel_bot?utm_source=predictefy) - Telegram bot monitoring Polymarket order flow every 10 minutes to detect whale transactions, suspicious trades, and probability shifts.
 - [PolySpy](https://t.me/PolySpy_bot?utm_source=predictefy) - Telegram bot delivering instant notifications for newly created Polymarket contracts with granular filtering by topic, category, and custom tag exclusions.
+- [SpectralEdge](https://spectralbot.cotes.ai/?utm_source=predictefy) - Model-driven signal service calling YES or NO on Kalshi BTC 15-minute markets when confidence and edge clear a threshold, with a REST and SSE API.
 - [Stand](https://www.stand.trade/?utm_source=predictefy) - Wallet monitoring and copy trading tool providing real-time alerts when top Polymarket traders execute high-conviction positions.
 - [YN Signals](https://t.me/YNSignals?utm_source=predictefy) - Telegram channel streaming continuous alerts for new market listings, odds anomalies, whale transactions, and active wallet movements across Polymarket, Kalshi, and Limitless.
 
