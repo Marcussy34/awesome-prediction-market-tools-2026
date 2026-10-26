@@ -187,6 +187,7 @@ predictefy.com.
 
 ## Education
 
+- [PredictionMarket.tools](https://www.predictionmarket.tools/) - Free Polymarket and Kalshi tool directory with platform comparisons, calculators, API guides, and a runnable paper trading bot tutorial.
 - [PolymarketGuide](https://polymarketguide.gitbook.io/?utm_source=predictefy) - Independent knowledge base explaining how Polymarket resolves markets, with precedent examples and case studies for traders and oracle participants.
 - [PolyNoob](https://polynoob.com/?utm_source=predictefy) - Beginner-focused encyclopedia and guide covering Polymarket trading strategies, trader insights, and other educational material for new users.
 - [The Oracle by Polymarket](https://news.polymarket.com/?utm_source=predictefy) - Newsletter and podcast produced by Polymarket, covering news, market commentary, and analysis tied to live prediction market activity.
