@@ -75,6 +75,7 @@ predictefy.com.
 - [TatorTrader](https://tatortrader.quickintel.io/?utm_source=predictefy) - Conversational trading interface for placing prediction market bets across Polymarket, Myriad, and Limitless within messaging apps and social timelines.
 - [TurbineFi](https://turbinefi.com?utm_source=predictefy) - Algorithmic trading platform for Kalshi and Polymarket to backtest, build, and deploy automated market-making and arbitrage bots.
 - [UnifAI](https://unifai.network?utm_source=predictefy) - DeFi infrastructure platform enabling autonomous agents to discover, automate, and optimize liquidity and yield strategies across protocols.
+- [Windmill](https://windmill.markets/?utm_source=predictefy) - Hosted service that turns plain-English Kalshi strategies into AI agents, with free paper trading against the live order book and live trading through your own API key.
 
 ## Aggregators
 
