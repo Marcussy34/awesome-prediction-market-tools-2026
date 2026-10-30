@@ -144,6 +144,7 @@ predictefy.com.
 - [PolyRouter](https://polyrouter.io?utm_source=predictefy) - Unified API service delivering normalized market data from Kalshi, Polymarket, and Limitless through a single API key and standardized interface.
 - [Predictefy SDK](https://www.npmjs.com/package/@predictefy/sdk?utm_source=predictefy) - Normalized REST, WebSocket, and SQL contract with TypeScript and Python SDKs, where reaching another venue means changing the venue parameter.
 - [pykalshi](https://github.com/ArshKA/kalshi-client?utm_source=predictefy) - Python client for Kalshi featuring WebSocket streaming, automatic retries, rate limiting, Pandas integration, Jupyter notebook rendering, and local order book management.
+- [Seeryx SDKs](https://github.com/Seeryx/seeryx-python?utm_source=predictefy) - Official MIT-licensed Python and Rust clients for a Solana prediction market, covering REST calls, WebSocket streams and local order signing.
 
 ## Arbitrage
 
