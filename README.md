@@ -83,6 +83,7 @@ predictefy.com.
 - [Matchr](https://matchr.xyz?utm_source=predictefy) - Cross-venue aggregator searching markets across Polymarket and Kalshi to route trades to the best available prices and automated yield strategies.
 - [OkayBet](https://www.okaybet.app/?utm_source=predictefy) - Prediction market aggregation layer supporting cross-platform parlay betting, automated trading agents, and market discovery.
 - [Predictefy](https://predictefy.com/en/markets?utm_source=predictefy) - Aggregates markets, prices, order books, and trades from nine venues into one interface, with cross-venue market matching and compare views.
+- [Predxy](https://predxy.com/) - Predxy brings the world’s prediction markets into one place, helping people discover what’s likely to happen and follow changing expectations across politics, economics, sports, crypto, and beyond (15 venues aggregated)
 - [trade.fun](https://trade.fun/?utm_source=predictefy) - Multi-asset trading interface combining Polymarket prediction contracts, Solana spot tokens, and leveraged perpetuals with MEV protection.
 - [TradeFox](https://thetradefox.com?utm_source=predictefy) - Prediction market aggregator offering self-custodial order execution, cross-platform liquidity routing, and portfolio management tools.
 
