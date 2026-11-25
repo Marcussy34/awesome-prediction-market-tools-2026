@@ -242,6 +242,7 @@ predictefy.com.
 - [Fireplace](https://fireplace.gg/?utm_source=predictefy) - Social news feed app built on Polymarket, letting friends scroll headlines, place bets on breaking news markets, and compete on leaderboards.
 - [Homerun](https://github.com/braedonsaunders/homerun?utm_source=predictefy) - Open-source Polymarket and Kalshi trading platform with Python strategies, backtesting, paper and live trading, copy trading, and a real-time dashboard under the AGPL-3.0 license.
 - [okbet](https://tryokbet.com/?utm_source=predictefy) - Telegram terminal covering both Polymarket and Kalshi, letting groups of friends trade, place bets, and copy top performers from chat.
+- [Perpex](https://perpex.co/?utm_source=predictefy) - Self-custodial Hyperliquid app for iOS, Android, and web that trades HIP-4 outcome markets alongside perpetuals, spot, and HIP-3 stock and commodity markets.
 - [PolyBot](https://polybot.trading/?utm_source=predictefy) - Self-custodial Telegram trading bot for Polymarket using Gnosis Safe wallets, with gas-sponsored transactions and paste-to-trade execution inside chat.
 - [Polyburg](https://polyburg.com/?utm_source=predictefy) - Intelligence terminal tracking Polymarket's most profitable wallets through automated monitoring, AI-generated insights, and instant Telegram alerts.
 - [Polycule](https://www.polycule.trade/?utm_source=predictefy) - Telegram bot for trading Polymarket markets from mobile chats, supporting solo, social, and group trade execution.
