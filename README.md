@@ -213,6 +213,7 @@ predictefy.com.
 
 - [Boring News](https://www.notboring.co/?utm_source=predictefy) - Daily news show built around Polymarket odds as its data foundation, publishing episodes across YouTube, X, and podcast platforms.
 - [DeepNewz](https://deepnewz.com/?utm_source=predictefy) - News app that personalizes story feeds and attaches live prediction market odds to each headline using AI-driven curation.
+- [FlowFeed](https://flowfeed.cc/?utm_source=predictefy) - Paid hosted MCP server that brings macro, forex and crypto news, an economic calendar and central bank releases into AI assistants for event-driven forecasting.
 - [Prediction News](https://predictionnews.com/?utm_source=predictefy) - News site publishing articles, analysis, and data-driven insights that track the prediction market industry across platforms and events.
 - [PROPHET](https://www.prophetnotes.com/?utm_source=predictefy) - Newsletter delivering forecasting insights on politics, finance, and geopolitics, drawing on input from outside subject-matter experts.
 - [Stocktwits](https://stocktwits.com?utm_source=predictefy) - Social platform for traders and investors that layers prediction market probabilities on top of real-time market discussion feeds.
